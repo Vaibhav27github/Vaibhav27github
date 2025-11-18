@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Chaudhari</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🔭 I’m currently working on **my skills for R language**
+- 🔭 I’m currently working on **my skills for Python language**
 
 - 🌱 I’m currently learning **B.E Computer**
 

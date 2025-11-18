@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Chaudhari</h1>
-<h3 align="center">A passionate Data Analyst and Frontend Developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 - 🔭 I’m currently working on **my skills for R language**
 
